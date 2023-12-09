@@ -1,0 +1,11 @@
+.grid {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
